@@ -13,7 +13,7 @@ export const Bio = {
     "I’m an Artificial Intelligence and Data Science Engineer with a strong foundation in Data Structures and Algorithms. Passionate about building intelligent solutions, I specialize in web and Android development. I enjoy solving real-world problems through data-driven insights and scalable, efficient code.",
   github: "https://github.com/Vikramsolanki12",
   resume:
-    "https://drive.google.com/file/d/150E8YcJFlP3HF7hJedE1CLYFr1z5GMwA/view?usp=drive_link",
+    "https://drive.google.com/file/d/150E8YcJFlP3HF7hJedE1CLYFr1z5GMwA/view",
   linkedin: "https://www.linkedin.com/in/vikram-solanki12",
   twitter: "https://twitter.com/Solanki_1209",
   insta: "https://www.instagram.com/vikram_solank1/",
